@@ -374,21 +374,37 @@
         "question_GFFAzX": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How does the LED mask work?",
+            "text": "<p>The mask uses 7 different LED light colors to target specific skin concerns such as acne, wrinkles, dark spots, and dull skin, helping you achieve healthier-looking skin naturally.</p><p></p>"
           }
         },
         "question_3ety8t": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Is the LED light safe for my skin?",
+            "text": "<p><br/>Yes! The mask uses UV-free LED technology, making it safe, painless, and gentle for regular use.<br/><br/></p>"
+          }
+        },
+        "question_xPMin3": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use the mask?",
+            "text": "<p><br/>For best results, use the mask 3–4 times per week for 10–15 minutes per session on clean skin.<br/><br/></p>"
+          }
+        },
+        "question_fQcJCG": {
+          "type": "question",
+          "settings": {
+            "title": "When will I start seeing results?",
+            "text": "<p>Many users notice brighter, refreshed skin after a few sessions, while more noticeable improvements in acne and fine lines usually appear after 3–4 weeks of consistent use.</p><p></p>"
           }
         }
       },
       "block_order": [
         "question_GFFAzX",
-        "question_3ety8t"
+        "question_3ety8t",
+        "question_xPMin3",
+        "question_fQcJCG"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
