@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Lifts & Tightens Skin</span> – Helps sculpt the neck and jawline for a firmer, more youthful look.<br><br>\n\n<span style=\"font-weight: bold;\">💆‍♀️ EMS Microcurrent Massage</span> – Gently stimulates the skin to improve firmness and smoothness.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Gentle Heat Therapy</span> – Provides a relaxing warming effect while supporting better skincare absorption.<br><br>\n\n<span style=\"font-weight: bold;\">💫 5-Minute Daily Glow-Up</span> – Easy home treatment to refresh, firm, and define your look.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -166,7 +166,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Lift, Tighten &amp; Glow",
             "text_size": 20,
             "link": ""
           }
@@ -195,7 +195,7 @@
         "heading_tNwnmA": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Sculpt a More Defined Jawline",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -203,7 +203,7 @@
         "text_7F6zmg": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Experience advanced beauty technology designed to visibly lift, tighten, and contour your neck and jawline. Enjoy a more youthful appearance without needles or expensive treatments.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -215,6 +215,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1776767461_phpakvrjqb5qocb2MS2wZY.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -248,7 +249,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Your Daily 5-Minute Face Lift",
             "text_size": 20,
             "link": ""
           }
@@ -277,7 +278,7 @@
         "heading_QmrXhz": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Professional Anti-Aging Care at Home",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -285,7 +286,7 @@
         "text_T7DEby": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Combining gentle heat, LED therapy, and microcurrent technology, this device helps reduce the appearance of a double chin, smooth wrinkles, and restore your skin's natural radiance in just minutes a day.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -297,6 +298,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1776767461_phpt0n9da0ovl5t6MN7pR1.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -327,21 +329,21 @@
         "ai_gen_block_c856904_3iCPab": {
           "type": "ai_gen_block_c856904",
           "settings": {
-            "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
+            "header_col_1": "Benefits",
+            "header_col_2": "Us",
+            "header_col_3": "Others",
+            "row_1_col_1": "EMS Microcurrent Technology",
+            "row_1_col_2": "yes",
+            "row_1_col_3": "no",
+            "row_2_col_1": "LED Light Therapy",
+            "row_2_col_2": "yes",
+            "row_2_col_3": "no",
+            "row_3_col_1": "Helps Reduce Double Chin",
+            "row_3_col_2": "yes",
+            "row_3_col_3": "no",
+            "row_4_col_1": "Lifts & Tightens Skin",
+            "row_4_col_2": "yes",
+            "row_4_col_3": "no",
             "header_background": "#a27d32",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -372,21 +374,37 @@
         "question_GFFAzX": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How does the device work?",
+            "text": "<p>The device combines EMS microcurrents, gentle heat, and LED light therapy to help tighten skin, improve elasticity, and enhance facial contours.</p><p></p>"
           }
         },
         "question_3ety8t": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Is it painful to use?",
+            "text": "<p>No. The treatment is completely painless and provides a gentle warming and massaging sensation.</p>"
+          }
+        },
+        "question_nQkggj": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use it?",
+            "text": "<p><br/>For best results, use the device for 5–10 minutes daily on clean skin.<br/><br/></p>"
+          }
+        },
+        "question_EG8EVn": {
+          "type": "question",
+          "settings": {
+            "title": "When will I see results?",
+            "text": "<p>Many users notice smoother and more refreshed skin after a few sessions, while visible lifting effects typically appear after several weeks of consistent use.</p><p></p>"
           }
         }
       },
       "block_order": [
         "question_GFFAzX",
-        "question_3ety8t"
+        "question_3ety8t",
+        "question_nQkggj",
+        "question_EG8EVn"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
@@ -403,6 +421,20 @@
     },
     "1771945068374140eb": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_fXexgP": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_fXexgP"
+      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
@@ -465,29 +497,6 @@
     "1771850465e38b72c3": {
       "type": "_blocks",
       "settings": {}
-    },
-    "1782822167e9be0913": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_bh3kn7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_bh3kn7"
-      ],
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -502,7 +511,6 @@
     "faq_U34DNW",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
-    "1771850465e38b72c3",
-    "1782822167e9be0913"
+    "1771850465e38b72c3"
   ]
 }
