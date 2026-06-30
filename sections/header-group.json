@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Delivery All Over  Lebanon",
+            "text": "Free Delivery All Over  Lebanon",
             "text_on_mobile": "",
             "text_size": 13,
             "link": ""
@@ -36,8 +36,8 @@
         "show_navigation": true,
         "direction": "left",
         "speed": 1.6,
-        "colors_text": "#FFFFFF",
-        "colors_background": "#A27D32",
+        "colors_text": "#ffffff",
+        "colors_background": "#a27d32",
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
