@@ -67,7 +67,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "Glow Beyond Beauty.",
             "text_size": 20,
             "link": ""
           }
@@ -84,7 +84,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#A27D32",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -96,7 +96,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "Who's Lunelle?",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -104,7 +104,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p><strong>Lunelle is a luxury beauty brand dedicated to bringing innovative skincare and self-care solutions into your everyday routine. We carefully curate premium beauty devices designed to enhance natural beauty, promote confidence, and create a luxurious at-home spa experience. Our mission is to make advanced beauty technology accessible, elegant, and effortless for every woman.</strong></p><p><strong>Lunelle — Where Beauty Meets Innovation.</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -143,7 +143,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Free Delivery All Over Lebanon",
             "text_size": 20,
             "link": ""
           }
@@ -160,7 +160,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#A27D32",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -172,22 +172,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "How long does delivery take?",
+            "text": "<p>Our standard delivery time is <strong>5–7 business days</strong>, depending on your location.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Are your products safe?",
+            "text": "<p><br/>Yes! All our products are carefully selected and designed with quality and safety in mind.<br/><br/></p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact you?",
+            "text": "<p>You can easily reach us through <strong>WhatsApp</strong> for any questions, support, or order inquiries.<br/><br/></p>"
           }
         }
       },
