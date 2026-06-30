@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ 7 LED Light Modes</span> – Targets acne, dull skin, dark spots, fine lines, and uneven skin tone.<br><br>\n\n<span style=\"font-weight: bold;\">💆‍♀️ Home Spa Treatment</span> – Enjoy a relaxing skincare session from home in only 10–15 minutes.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Gentle & UV-Free</span> – Safe, painless light therapy without harsh chemicals or discomfort.<br><br>\n\n\n\n</div>"
           }
         },
         "variant_picker": {
@@ -166,7 +166,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Glow Smarter, Shine Naturally",
             "text_size": 20,
             "link": ""
           }
@@ -182,8 +182,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#FFFFFF",
-        "colors_background": "#A27D32",
+        "colors_text": "#ffffff",
+        "colors_background": "#a27d32",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -195,7 +195,7 @@
         "heading_tNwnmA": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Experience Professional LED Skincare at Home",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -203,7 +203,7 @@
         "text_7F6zmg": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Transform your skincare routine with advanced LED light therapy designed to target acne, fine lines, dark spots, and dull skin. Enjoy spa-quality treatments from the comfort of your home in just 10–15 minutes a day.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -215,6 +215,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1773746678_phps9rukunemtjbfu7oDKc.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -228,6 +229,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -247,7 +249,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Your Daily Glow Starts Here",
             "text_size": 20,
             "link": ""
           }
@@ -263,8 +265,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#FFFFFF",
-        "colors_background": "#A27D32",
+        "colors_text": "#ffffff",
+        "colors_background": "#a27d32",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -276,7 +278,7 @@
         "heading_QmrXhz": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Reveal Your Natural Glow",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -284,7 +286,7 @@
         "text_T7DEby": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p><br/>Featuring 7 customized light modes, this LED mask helps rejuvenate your skin, boost collagen production, and restore a brighter, smoother, and more youthful-looking complexion—without harsh chemicals or expensive clinic visits.<br/><br/></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -296,6 +298,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1773746679_php8c8i2et13ttqfUuBkSR.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -309,6 +312,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -325,22 +329,22 @@
         "ai_gen_block_c856904_3iCPab": {
           "type": "ai_gen_block_c856904",
           "settings": {
-            "header_col_1": "Feature",
-            "header_col_2": "Benefit",
-            "header_col_3": "Details",
-            "row_1_col_1": "Quality materials",
-            "row_1_col_2": "Long-lasting durability",
-            "row_1_col_3": "Premium construction",
-            "row_2_col_1": "Fast shipping",
-            "row_2_col_2": "Quick delivery",
-            "row_2_col_3": "2-3 business days",
-            "row_3_col_1": "Easy returns",
-            "row_3_col_2": "Hassle-free process",
-            "row_3_col_3": "30-day guarantee",
-            "row_4_col_1": "Customer support",
-            "row_4_col_2": "Expert assistance",
-            "row_4_col_3": "24/7 availability",
-            "header_background": "#A27D32",
+            "header_col_1": "Benefit",
+            "header_col_2": "Us",
+            "header_col_3": "Others",
+            "row_1_col_1": "UV-Free & Safe Technology",
+            "row_1_col_2": "yes",
+            "row_1_col_3": "no",
+            "row_2_col_1": "Helps Reduce Acne",
+            "row_2_col_2": "yes",
+            "row_2_col_3": "no",
+            "row_3_col_1": "Supports Collagen Production",
+            "row_3_col_2": "yes",
+            "row_3_col_3": "no",
+            "row_4_col_1": "7 LED Light Modes",
+            "row_4_col_2": "yes",
+            "row_4_col_3": "no",
+            "header_background": "#a27d32",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
             "row_even_background": "#ffffff",
@@ -401,6 +405,20 @@
     },
     "1771945068374140eb": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_QneDrE": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_QneDrE"
+      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
