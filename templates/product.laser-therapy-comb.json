@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Lifts & Tightens Skin</span> – Helps sculpt the neck and jawline for a firmer, more youthful look.<br><br>\n\n<span style=\"font-weight: bold;\">💆‍♀️ EMS Microcurrent Massage</span> – Gently stimulates the skin to improve firmness and smoothness.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Gentle Heat Therapy</span> – Provides a relaxing warming effect while supporting better skincare absorption.<br><br>\n\n<span style=\"font-weight: bold;\">💫 5-Minute Daily Glow-Up</span> – Easy home treatment to refresh, firm, and define your look.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">💆‍♀️ EMS Microcurrent Massage</span> – Gently stimulates the skin to improve firmness and smoothness.<br><br>\n\n<span style=\"font-weight: bold;\">🪮 2-in-1 Comb & Oil Applicator</span> – Evenly applies your favorite hair oil while gently massaging the scalp to help improve absorption and promote a relaxing experience.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Gentle & Non-Invasive</span> – Enjoy a comfortable at-home scalp care routine in just 10–15 minutes with no pain, no harsh chemicals, and no downtime.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -195,7 +195,7 @@
         "heading_tNwnmA": {
           "type": "heading",
           "settings": {
-            "heading": "Sculpt a More Defined Jawline",
+            "heading": "Stimulate Stronger, Healthier Hair Growth",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -203,7 +203,7 @@
         "text_7F6zmg": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Experience advanced beauty technology designed to visibly lift, tighten, and contour your neck and jawline. Enjoy a more youthful appearance without needles or expensive treatments.<br/><br/></p>",
+            "text": "<p>Our Laser Hair Growth Comb uses clinically proven laser technology to help reduce shedding, strengthen hair follicles, and promote natural hair growth. Easy to use, painless, and designed for visible results at home.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -215,7 +215,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1781950011_5_2.png",
+        "image": "shopify://shop_images/10.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -278,7 +278,7 @@
         "heading_QmrXhz": {
           "type": "heading",
           "settings": {
-            "heading": "Professional Anti-Aging Care at Home",
+            "heading": "Professional Laser Hair Growth Comb",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -286,7 +286,7 @@
         "text_T7DEby": {
           "type": "text",
           "settings": {
-            "text": "<p>Combining gentle heat, LED therapy, and microcurrent technology, this device helps reduce the appearance of a double chin, smooth wrinkles, and restore your skin's natural radiance in just minutes a day.</p>",
+            "text": "<p>Powered by low-level laser therapy (LLLT) and red light technology, this comb helps stimulate hair follicles, improve scalp health, and support natural hair growth-stronger, thicker, and fuller hair, from the comfort of your home.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -298,7 +298,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1781950011_4_2.png",
+        "image": "shopify://shop_images/10.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -332,16 +332,16 @@
             "header_col_1": "Benefits",
             "header_col_2": "Us",
             "header_col_3": "Others",
-            "row_1_col_1": "EMS Microcurrent Technology",
+            "row_1_col_1": "LLLT (Low-Level Laser Therapy)",
             "row_1_col_2": "yes",
             "row_1_col_3": "no",
-            "row_2_col_1": "LED Light Therapy",
+            "row_2_col_1": "Stimulates Hair Follicles",
             "row_2_col_2": "yes",
             "row_2_col_3": "no",
-            "row_3_col_1": "Helps Reduce Double Chin",
+            "row_3_col_1": "Supports Natural Hair Growth",
             "row_3_col_2": "yes",
             "row_3_col_3": "no",
-            "row_4_col_1": "Lifts & Tightens Skin",
+            "row_4_col_1": "Improve Scalp Health",
             "row_4_col_2": "yes",
             "row_4_col_3": "no",
             "header_background": "#a27d32",
@@ -374,29 +374,29 @@
         "question_GFFAzX": {
           "type": "question",
           "settings": {
-            "title": "How does the device work?",
-            "text": "<p>The device combines EMS microcurrents, gentle heat, and LED light therapy to help tighten skin, improve elasticity, and enhance facial contours.</p><p></p>"
+            "title": "How does this comb actually help my hair grow?",
+            "text": "<p>It combines three powerful actions: a gentle massage to boost blood flow, red laser therapy to stimulate cell renewal in hair follicles, and direct oil application right to the roots where it’s needed most. This creates the perfect environment to stop hair fall and promote new growth.</p><p></p>"
           }
         },
         "question_3ety8t": {
           "type": "question",
           "settings": {
-            "title": "Is it painful to use?",
-            "text": "<p>No. The treatment is completely painless and provides a gentle warming and massaging sensation.</p>"
+            "title": "Will it make my hair look oily and greasy?",
+            "text": "<p>No! Because the comb dispenses oil directly onto your scalp and roots through the teeth of the brush, it avoids making the rest of your hair a greasy mess. You use less oil and get much better results.</p>"
           }
         },
         "question_nQkggj": {
           "type": "question",
           "settings": {
-            "title": "How often should I use it?",
-            "text": "<p><br/>For best results, use the device for 5–10 minutes daily on clean skin.<br/><br/></p>"
+            "title": "How exactly do I use it?",
+            "text": "<p><br/>Simply fill the top compartment with your preferred hair oil, turn on the device, and slowly brush your scalp from front to back for 5 to 10 minutes.<br/><br/></p>"
           }
         },
         "question_EG8EVn": {
           "type": "question",
           "settings": {
-            "title": "When will I see results?",
-            "text": "<p>Many users notice smoother and more refreshed skin after a few sessions, while visible lifting effects typically appear after several weeks of consistent use.</p><p></p>"
+            "title": "How long until I see thicker hair?",
+            "text": "<p>You will feel less scalp dryness and more relaxation instantly! For visible hair growth and reduced hair fall, consistent daily or every-other-day use will show the best results within 4 to 8 weeks.</p><p></p>"
           }
         }
       },
